@@ -1,0 +1,46 @@
+2026-10-29T00:08:20.192+02:00  WARN 5592 --- [library-app] [http-nio-8080-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' is not supported]
+2026-10-29T00:13:59.350+02:00  WARN 5592 --- [library-app] [http-nio-8080-exec-9] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2026-10-29T00:18:45.766+02:00  INFO 5592 --- [library-app] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-10-29T00:18:45.852+02:00  INFO 5592 --- [library-app] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-10-29T00:18:59.578+02:00  INFO 8336 --- [library-app] [main] c.l.app.LibraryAppApplicationTests       : Starting LibraryAppApplicationTests using Java 17.0.12 with PID 8336 (started by Ernest in D:\TIN\DAW\library-app)
+2026-10-29T00:18:59.580+02:00  INFO 8336 --- [library-app] [main] c.l.app.LibraryAppApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2026-10-29T00:19:00.582+02:00  INFO 8336 --- [library-app] [main] c.l.app.LibraryAppApplicationTests       : Started LibraryAppApplicationTests in 1.292 seconds (process running for 2.234)
+2026-10-29T00:19:51.106+02:00  INFO 1968 --- [library-app] [main] com.library.app.LibraryAppApplication    : Starting LibraryAppApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 1968 (D:\TIN\DAW\library-app\target\library-app-0.0.1-SNAPSHOT.jar started by Ernest in D:\TIN\DAW\library-app)
+2026-10-29T00:19:51.110+02:00  INFO 1968 --- [library-app] [main] com.library.app.LibraryAppApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-10-29T00:19:52.025+02:00  INFO 1968 --- [library-app] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-10-29T00:19:52.044+02:00  INFO 1968 --- [library-app] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-10-29T00:19:52.044+02:00  INFO 1968 --- [library-app] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-10-29T00:19:52.078+02:00  INFO 1968 --- [library-app] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 923 ms
+2026-10-29T00:19:52.419+02:00  INFO 1968 --- [library-app] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-10-29T00:19:52.431+02:00  INFO 1968 --- [library-app] [main] com.library.app.LibraryAppApplication    : Started LibraryAppApplication in 1.836 seconds (process running for 2.306)
+2026-10-29T00:20:20.791+02:00  INFO 6176 --- [library-app] [main] com.library.app.LibraryAppApplication    : Starting LibraryAppApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 6176 (D:\TIN\DAW\library-app\target\library-app-0.0.1-SNAPSHOT.jar started by Ernest in D:\TIN\DAW\library-app)
+2026-10-29T00:20:20.798+02:00  INFO 6176 --- [library-app] [main] com.library.app.LibraryAppApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-10-29T00:20:21.744+02:00  INFO 6176 --- [library-app] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 9090 (http)
+2026-10-29T00:20:21.757+02:00  INFO 6176 --- [library-app] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-10-29T00:20:21.758+02:00  INFO 6176 --- [library-app] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-10-29T00:20:21.798+02:00  INFO 6176 --- [library-app] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 946 ms
+2026-10-29T00:20:22.121+02:00  INFO 6176 --- [library-app] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 9090 (http) with context path '/'
+2026-10-29T00:20:22.133+02:00  INFO 6176 --- [library-app] [main] com.library.app.LibraryAppApplication    : Started LibraryAppApplication in 1.85 seconds (process running for 2.319)
+2026-10-29T00:22:08.668+02:00  INFO 1968 --- [library-app] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-10-29T00:22:08.745+02:00  INFO 1968 --- [library-app] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-10-29T00:23:40.037+02:00  INFO 11324 --- [library-app] [main] com.library.app.LibraryAppApplication    : Starting LibraryAppApplication using Java 17.0.12 with PID 11324 (D:\TIN\DAW\library-app\target\classes started by Ernest in D:\TIN\DAW\library-app)
+2026-10-29T00:23:40.040+02:00  INFO 11324 --- [library-app] [main] com.library.app.LibraryAppApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-10-29T00:23:40.727+02:00  INFO 11324 --- [library-app] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-10-29T00:23:40.777+02:00  INFO 11324 --- [library-app] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 699 ms
+2026-10-29T00:23:41.271+02:00  INFO 11324 --- [library-app] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2026-10-29T00:23:41.320+02:00  INFO 11324 --- [library-app] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-10-29T00:23:41.326+02:00  INFO 11324 --- [library-app] [main] com.library.app.LibraryAppApplication    : Started LibraryAppApplication in 1.636 seconds (process running for 2.687)
+2026-10-29T00:23:41.329+02:00  INFO 11324 --- [library-app] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-10-29T00:23:41.400+02:00  INFO 11324 --- [library-app] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-10-29T00:23:43.081+02:00  INFO 18296 --- [library-app] [main] com.library.app.LibraryAppApplication    : Starting LibraryAppApplication using Java 17.0.12 with PID 18296 (D:\TIN\DAW\library-app\target\classes started by Ernest in D:\TIN\DAW\library-app)
+2026-10-29T00:23:43.084+02:00  INFO 18296 --- [library-app] [main] com.library.app.LibraryAppApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-10-29T00:23:43.769+02:00  INFO 18296 --- [library-app] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-10-29T00:23:43.777+02:00  INFO 18296 --- [library-app] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-10-29T00:23:43.777+02:00  INFO 18296 --- [library-app] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-10-29T00:23:43.809+02:00  INFO 18296 --- [library-app] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 692 ms
+2026-10-29T00:23:44.196+02:00  INFO 18296 --- [library-app] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2026-10-29T00:23:44.251+02:00  INFO 18296 --- [library-app] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-10-29T00:23:44.259+02:00  INFO 18296 --- [library-app] [main] com.library.app.LibraryAppApplication    : Started LibraryAppApplication in 1.512 seconds (process running for 1.955)
+2026-10-29T00:23:44.538+02:00  INFO 18296 --- [library-app] [RMI TCP Connection(2)-192.168.1.2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-10-29T00:23:44.538+02:00  INFO 18296 --- [library-app] [RMI TCP Connection(2)-192.168.1.2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-10-29T00:23:44.541+02:00  INFO 18296 --- [library-app] [RMI TCP Connection(2)-192.168.1.2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
